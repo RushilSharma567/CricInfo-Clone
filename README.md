@@ -9,23 +9,23 @@ This is great pleasure for us we successfully completed the task of project in g
 ## Team Members
 
 
-➡️ Dinesh Karde
+➡️ Rushil Sharma & Daksh Choudhary
 
 Homepage of website
 
-➡️ Asheesh Gupta
+➡️ Rushil Sharma & Daksh Choudhary
 
 Login/singup page
 
-➡️ Vivek Rana
+➡️ Rushil Sharma & Daksh Choudhary
 
 Live Score Page
 
-➡️ Shubham Choudhary
+➡️ Rushil Sharma & Daksh Choudhary
 
 News page
 
-➡️ Hisamuddin Shaikh
+➡️ Rushil Sharma & Daksh Choudhary
 
 Series page
 
